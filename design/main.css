@@ -1,0 +1,38 @@
+@import url("http://design.elliottcable.info/ystyle/compiled/ystyle.css");
+
+body {
+  width: 45em;
+  margin: auto;
+  font: 11pt/1.6 Georgia, "Times New Roman", Times, serif;
+}
+
+h1 {
+  text-align: center;
+  font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+  text-transform: uppercase;
+}
+
+#posts {
+  
+}
+
+#posts li {
+  list-style-type: none;
+  text-align: center;
+  font-size: 150%;
+}
+
+#footer {
+  padding-right: 5px;
+  padding-left: 5px;
+  background: white;
+  position: fixed;
+  bottom: 0px;
+  right: 0px;
+  font-size: 85%;
+}
+
+#footer p {
+  margin: 0 !important;
+  padding: 0 !important;
+}

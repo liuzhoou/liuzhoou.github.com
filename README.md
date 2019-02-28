@@ -1,1 +1,2 @@
 - [ ] published the post.
+- [x] create a page.
